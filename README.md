@@ -1,74 +1,28 @@
 🚀 Apna College DSA Sheet Solutions
-💻 90 Days DSA Challenge
-
-Welcome to my structured repository for solving problems from the Apna College DSA Sheet as part of my 90 Days DSA Challenge.
-
+⏳ 90 Days DSA Challenge
+<p align="center"> <img src="https://img.shields.io/badge/Challenge-90%20Days%20DSA-blue?style=for-the-badge" alt="Challenge Badge"/> <img src="https://img.shields.io/badge/Working%20on-Day%202-orange?style=for-the-badge" alt="Progress Badge"/> </p>
 📌 About This Repository
 
-🎯 Focused on Data Structures & Algorithms
+This repo is my personal log of solving the Apna College DSA Sheet—one problem each day for 90 days. Every problem is approached with three strategies: brute force, better, and optimal.
 
-🧠 Built for coding interview preparation
+📅 90-Day Progress Tracking
 
-💡 Clean and well-structured solutions
+Day 1: Solved a problem
 
-📈 Daily consistency tracking
+Day 2: Loading...
 
-🚀 Beginner to advanced approach explanation
+Day 3: Loading...
 
-🟢 Current Problem
-1️⃣ Majority Element (Array)
-✔️ Brute Force (Naive Approach)
+... (Tracking continues for all 90 days)
 
-Time Complexity: O(n²)
+🚀 Challenge Approach
 
-✔️ Better Approach (HashMap / Sorting)
+Each day, I tackle one problem.
 
-Time Complexity: O(n log n) or O(n)
+I implement three solutions: brute force (naive), an improved approach, and the optimal solution.
 
-Space Complexity: O(n)
+The focus is on consistency and learning.
 
-✔️ Best / Optimal Approach (Boyer-Moore Voting Algorithm)
+💡 Why This Matters
 
-Time Complexity: O(n)
-
-Space Complexity: O(1)
-
-🛠️ What This Includes
-
-📖 Clear Problem Explanation
-
-🧠 Step-by-step Approach
-
-💻 Code Implementation
-
-⏱️ Time & Space Complexity Analysis
-
-📅 90 Days Challenge Progress
-Day	Problem	Status
-Day 1	Majority Element	✅ Completed
-Day 2	Coming Soon	⏳
-🎯 Purpose
-
-This repository is created to:
-
-Strengthen DSA fundamentals
-
-Improve problem-solving skills
-
-Prepare for technical interviews
-
-Maintain coding discipline
-
-⭐ Support
-
-If you find this repository helpful:
-
-⭐ Star this repository
-
-🍴 Fork it
-
-📢 Share with others
-
-💪 Consistency + Practice = Placement Success
-
-More problems coming soon 🚀
+The goal isn’t just problem-solving—it’s building daily discipline, mastering DSA concepts, and preparing for technical interviews.
