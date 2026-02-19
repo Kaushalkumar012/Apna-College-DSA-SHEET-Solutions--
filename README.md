@@ -5,13 +5,11 @@
 
 This repo is my personal log of solving the Apna College DSA Sheet—one problem each day for 90 days. Every problem is approached with three strategies: brute force, better, and optimal.
 
-📅 90-Day Progress Tracking
+| Day | Problem          | Topic | Status      |
+| --- | ---------------- | ----- | ----------- |
+| 01  | Majority Element | Array | ✅ Completed |
+| 02  | Coming Soon      | —     | ⏳           |
 
-Day 1: Solved a problem
-
-Day 2: Loading...
-
-Day 3: Loading...
 
 ... (Tracking continues for all 90 days)
 
