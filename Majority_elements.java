@@ -1,6 +1,4 @@
 // Brute force
-
-
 import java.util.*;
 public class Majority_elements{
     public static int majorityelements(int [] nums){
@@ -36,4 +34,5 @@ public class Majority_elements{
         sc.close();
     }
 }
+
 
